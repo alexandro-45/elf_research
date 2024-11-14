@@ -1,0 +1,13 @@
+https://www.lurklurk.org/linkers/linkers.html
+https://en.wikipedia.org/wiki/Executable_and_Linkable_Format
+https://github.com/corkami/pics/blob/28cb0226093ed57b348723bc473cea0162dad366/binary/elf101/elf101-64.svg
+https://web.cecs.pdx.edu/~kimchris/Slides_05_The_ELF_Object_File_Format.pdf
+https://gist.github.com/x0nu11byt3/bcb35c3de461e5fb66173071a2379779
+https://www.man7.org/linux/man-pages/man5/elf.5.html
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/include/uapi/linux/elf.h
+https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
+https://wiki.osdev.org/X86-64_Instruction_Encoding
+http://ref.x86asm.net/coder32.html
+https://en.wikipedia.org/wiki/VEX_prefix
+https://www.felixcloutier.com/x86/mov
+https://www.felixcloutier.com/x86/syscall
